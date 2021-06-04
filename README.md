@@ -2,6 +2,7 @@
 I2C communication between Arduino Uno and Mega
 
 This project gives a scalable example of how to send and recive messages using I2C communication.
+This project take in input from the user to the Master Device (Mega) and sends that data to the Slave Device. In return the slave device sends back 1 of 10 random facts.
 
 # Hardware Required
 - Arduino Uno
